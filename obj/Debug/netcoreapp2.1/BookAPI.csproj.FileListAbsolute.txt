@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\BookAPI\BookAPI\bin\Debug\netcoreapp2.1\BookAPI.deps.json
+C:\Users\user\Desktop\BookAPI\BookAPI\bin\Debug\netcoreapp2.1\BookAPI.runtimeconfig.json
+C:\Users\user\Desktop\BookAPI\BookAPI\bin\Debug\netcoreapp2.1\BookAPI.runtimeconfig.dev.json
+C:\Users\user\Desktop\BookAPI\BookAPI\bin\Debug\netcoreapp2.1\BookAPI.dll
+C:\Users\user\Desktop\BookAPI\BookAPI\bin\Debug\netcoreapp2.1\BookAPI.pdb
+C:\Users\user\Desktop\BookAPI\BookAPI\obj\Debug\netcoreapp2.1\BookAPI.csprojAssemblyReference.cache
+C:\Users\user\Desktop\BookAPI\BookAPI\obj\Debug\netcoreapp2.1\BookAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BookAPI\BookAPI\obj\Debug\netcoreapp2.1\BookAPI.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\BookAPI\BookAPI\obj\Debug\netcoreapp2.1\BookAPI.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\BookAPI\BookAPI\obj\Debug\netcoreapp2.1\BookAPI.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BookAPI\BookAPI\obj\Debug\netcoreapp2.1\BookAPI.AssemblyInfo.cs
+C:\Users\user\Desktop\BookAPI\BookAPI\obj\Debug\netcoreapp2.1\BookAPI.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\BookAPI\BookAPI\obj\Debug\netcoreapp2.1\BookAPI.dll
+C:\Users\user\Desktop\BookAPI\BookAPI\obj\Debug\netcoreapp2.1\BookAPI.pdb
